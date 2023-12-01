@@ -61,7 +61,7 @@ I write documents in Markdown, a format that's suitable for web browsing but not
 * Instructor: Dr. Anne-Marie Womack
 * Class: ENGI 501 @ Rice University
 * Date: Fall 2023
-* Github: [repo](https://github.com/donglinwu6066/engi501-communication-guide)
+* Github: [repo](https://github.com/donglinwu6066/engi501-communication-guide/blob/main/How%20to%20Get%20Your%20First%20Job.md)
 
 # Summary
 <h3>1. The Brochure Content</h3>
